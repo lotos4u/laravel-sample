@@ -1,0 +1,1 @@
+<th id="{{ config('grid.grid_id_placeholder') }}-header-@{{ctx.column.id}}" data-column-id="@{{ctx.column.id}}" class="@{{ctx.css}}" style="@{{ctx.style}}"><a href="javascript:void(0);" class="@{{css.columnHeaderAnchor}} @{{ctx.sortable}}"><span class="@{{css.columnHeaderText}}">@{{ctx.column.text}}</span>@{{ctx.icon}}</a></th>

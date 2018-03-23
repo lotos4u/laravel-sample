@@ -1,0 +1,2 @@
+<a @if (isset($link_class))class="{{ $link_class }}" @endif @if (isset($link_title))title="{{ $link_title }}"
+   @endif href="@if (isset($link_data)){{ route($link_route, $link_data) }}@else{{ route($link_route) }}@endif">{{ $link_text }}</a>

@@ -1,0 +1,75 @@
+<?php
+
+return [
+    "theme_changed" => "Theme changed successfully",
+
+    "user_deleted" => "User ':name' was successfully deleted",
+    "user_delete_error" => "User ':name' wasn't deleted!",
+    "user_updated" => "User ':name' was successfully updated",
+    "user_update_error" => "User ':name' wasn't updated!",
+    "user_created" => "User ':name' was successfully created",
+    "user_create_error" => "User ':name' wasn't created!",
+
+    "role_deleted" => "Role ':name' was successfully deleted",
+    "role_delete_error" => "Role ':name' wasn't deleted!",
+    "role_updated" => "Role ':name' was successfully updated",
+    "role_update_error" => "Role ':name' wasn't updated!",
+    "role_created" => "Role ':name' was successfully created",
+    "role_create_error" => "Role ':name' wasn't created!",
+
+    "permission_deleted" => "Permission ':name' was successfully deleted",
+    "permission_delete_error" => "Permission ':name' wasn't deleted!",
+    "permission_updated" => "Permission ':name' was successfully updated",
+    "permission_update_error" => "Permission ':name' wasn't updated!",
+    "permission_created" => "Permission ':name' was successfully created",
+    "permission_create_error" => "Permission ':name' wasn't created!",
+
+    "task_deleted" => "Task ':name' was successfully deleted",
+    "task_delete_error" => "Task ':name' wasn't deleted!",
+    "task_updated" => "Task ':name' was successfully updated",
+    "task_update_error" => "Task ':name' wasn't updated!",
+    "task_created" => "Task ':name' was successfully created",
+    "task_create_error" => "Task ':name' wasn't created!",
+
+    "task_type_deleted" => "Task type ':name' was successfully deleted",
+    "task_type_delete_error" => "Task type ':name' wasn't deleted!",
+    "task_type_updated" => "Task type ':name' was successfully updated",
+    "task_type_update_error" => "Task type ':name' wasn't updated!",
+    "task_type_created" => "Task type ':name' was successfully created",
+    "task_type_create_error" => "Task type ':name' wasn't created!",
+
+    "task_log_deleted" => "Task log ':name' was successfully deleted",
+    "task_log_delete_error" => "Task log ':name' wasn't deleted!",
+    "task_log_updated" => "Task log ':name' was successfully updated",
+    "task_log_update_error" => "Task log ':name' wasn't updated!",
+    "task_log_created" => "Task log ':name' was successfully created",
+    "task_log_create_error" => "Task log ':name' wasn't created!",
+
+    "setting_deleted" => "Setting ':name' was successfully deleted",
+    "setting_delete_error" => "Setting ':name' wasn't deleted!",
+    "setting_updated" => "Setting ':name' was successfully updated",
+    "setting_update_error" => "Setting ':name' wasn't updated!",
+    "setting_created" => "Setting ':name' was successfully created",
+    "setting_create_error" => "Setting ':name' wasn't created!",
+
+    "setting_type_deleted" => "Setting type ':name' was successfully deleted",
+    "setting_type_delete_error" => "Setting type ':name' wasn't deleted!",
+    "setting_type_updated" => "Setting type ':name' was successfully updated",
+    "setting_type_update_error" => "Setting type ':name' wasn't updated!",
+    "setting_type_created" => "Setting type ':name' was successfully created",
+    "setting_type_create_error" => "Setting type ':name' wasn't created!",
+
+    "notification_deleted" => "Notification ':name' was successfully deleted",
+    "notification_delete_error" => "Notification ':name' wasn't deleted!",
+    "notification_updated" => "Notification ':name' was successfully updated",
+    "notification_update_error" => "Notification ':name' wasn't updated!",
+    "notification_created" => "Notification ':name' was successfully created",
+    "notification_create_error" => "Notification ':name' wasn't created!",
+
+    "notification_type_deleted" => "Notification type ':name' was successfully deleted",
+    "notification_type_delete_error" => "Notification type ':name' wasn't deleted!",
+    "notification_type_updated" => "Notification type ':name' was successfully updated",
+    "notification_type_update_error" => "Notification type ':name' wasn't updated!",
+    "notification_type_created" => "Notification type ':name' was successfully created",
+    "notification_type_create_error" => "Notification type ':name' wasn't created!",
+];

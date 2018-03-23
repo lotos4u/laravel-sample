@@ -1,0 +1,2 @@
+<a class="@if (isset($action['class'])) {{ $action['class'] }} @else waves-effect waves-block @endif" @if (isset($action['text']))title="{{ $action['text'] }}"
+   @endif href="{{ $action['link']}}">{{ $action['text'] }}</a>

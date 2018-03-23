@@ -1,0 +1,1 @@
+<a class="waves-effect waves-block btn btn-default" onclick="(function () { $(\'.{{ \App\Models\FormFactory::MULTI_SELECT_CLASS }}\').multiSelect(\'deselect_all\') })();">{{ __('main.button_select_clear') }}</a>
